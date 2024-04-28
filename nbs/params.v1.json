@@ -1,0 +1,16 @@
+{
+    "field_width": 50,
+    "field_height": 50,  
+    "num_agents": 1000,
+    "max_vision": 15,
+    "min_harvest_level": 1,
+    "discount": 0.95,
+    "percent_best_land": 25,
+    "regrowth_rate": 0.1,
+    "is_imitate_on": true,
+    "stdev_error": 0.01,
+    "cost_punish": 0.01,
+    "cost_punished": 0.1,
+    "radius": 10,
+    "is_punish_on": true
+}
